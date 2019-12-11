@@ -1,0 +1,30 @@
+/vendor/lib/modules/wcd_cpe_dlkm.ko: /vendor/lib/modules/wcd_core_dlkm.ko /vendor/lib/modules/q6_dlkm.ko /vendor/lib/modules/apr_dlkm.ko /vendor/lib/modules/q6_notifier_dlkm.ko /vendor/lib/modules/q6_pdr_dlkm.ko
+/vendor/lib/modules/mbhc_dlkm.ko:
+/vendor/lib/modules/q6_notifier_dlkm.ko: /vendor/lib/modules/q6_pdr_dlkm.ko
+/vendor/lib/modules/pinctrl_wcd_dlkm.ko:
+/vendor/lib/modules/msm_11ad_proxy.ko:
+/vendor/lib/modules/lkdtm.ko:
+/vendor/lib/modules/ftm5.ko: /vendor/lib/modules/heatmap.ko /vendor/lib/modules/videobuf2-vmalloc.ko /vendor/lib/modules/videobuf2-memops.ko
+/vendor/lib/modules/videobuf2-memops.ko:
+/vendor/lib/modules/usf_dlkm.ko: /vendor/lib/modules/q6_dlkm.ko /vendor/lib/modules/apr_dlkm.ko /vendor/lib/modules/q6_notifier_dlkm.ko /vendor/lib/modules/q6_pdr_dlkm.ko
+/vendor/lib/modules/platform_dlkm.ko: /vendor/lib/modules/q6_dlkm.ko /vendor/lib/modules/apr_dlkm.ko /vendor/lib/modules/q6_notifier_dlkm.ko /vendor/lib/modules/q6_pdr_dlkm.ko
+/vendor/lib/modules/swr_ctrl_dlkm.ko: /vendor/lib/modules/swr_dlkm.ko /vendor/lib/modules/q6_dlkm.ko /vendor/lib/modules/apr_dlkm.ko /vendor/lib/modules/q6_notifier_dlkm.ko /vendor/lib/modules/q6_pdr_dlkm.ko
+/vendor/lib/modules/wglink_dlkm.ko:
+/vendor/lib/modules/wcd9360_dlkm.ko: /vendor/lib/modules/swr_ctrl_dlkm.ko /vendor/lib/modules/swr_dlkm.ko /vendor/lib/modules/wcd9xxx_dlkm.ko /vendor/lib/modules/wcd_core_dlkm.ko /vendor/lib/modules/q6_dlkm.ko /vendor/lib/modules/apr_dlkm.ko /vendor/lib/modules/q6_notifier_dlkm.ko /vendor/lib/modules/q6_pdr_dlkm.ko
+/vendor/lib/modules/heatmap.ko: /vendor/lib/modules/videobuf2-vmalloc.ko /vendor/lib/modules/videobuf2-memops.ko
+/vendor/lib/modules/q6_pdr_dlkm.ko:
+/vendor/lib/modules/stub_dlkm.ko:
+/vendor/lib/modules/q6_dlkm.ko: /vendor/lib/modules/apr_dlkm.ko /vendor/lib/modules/q6_notifier_dlkm.ko /vendor/lib/modules/q6_pdr_dlkm.ko
+/vendor/lib/modules/wcd934x_dlkm.ko: /vendor/lib/modules/mbhc_dlkm.ko /vendor/lib/modules/swr_ctrl_dlkm.ko /vendor/lib/modules/swr_dlkm.ko /vendor/lib/modules/wcd9xxx_dlkm.ko /vendor/lib/modules/wcd_core_dlkm.ko /vendor/lib/modules/q6_dlkm.ko /vendor/lib/modules/apr_dlkm.ko /vendor/lib/modules/q6_notifier_dlkm.ko /vendor/lib/modules/q6_pdr_dlkm.ko
+/vendor/lib/modules/apr_dlkm.ko: /vendor/lib/modules/q6_notifier_dlkm.ko /vendor/lib/modules/q6_pdr_dlkm.ko
+/vendor/lib/modules/cs35l36_dlkm.ko: /vendor/lib/modules/q6_dlkm.ko /vendor/lib/modules/apr_dlkm.ko /vendor/lib/modules/q6_notifier_dlkm.ko /vendor/lib/modules/q6_pdr_dlkm.ko
+/vendor/lib/modules/machine_dlkm.ko: /vendor/lib/modules/wsa881x_dlkm.ko /vendor/lib/modules/wcd934x_dlkm.ko /vendor/lib/modules/mbhc_dlkm.ko /vendor/lib/modules/swr_ctrl_dlkm.ko /vendor/lib/modules/swr_dlkm.ko /vendor/lib/modules/wcd9xxx_dlkm.ko /vendor/lib/modules/wcd_core_dlkm.ko /vendor/lib/modules/q6_dlkm.ko /vendor/lib/modules/apr_dlkm.ko /vendor/lib/modules/q6_notifier_dlkm.ko /vendor/lib/modules/q6_pdr_dlkm.ko
+/vendor/lib/modules/swr_dlkm.ko:
+/vendor/lib/modules/videobuf2-vmalloc.ko: /vendor/lib/modules/videobuf2-memops.ko
+/vendor/lib/modules/native_dlkm.ko: /vendor/lib/modules/platform_dlkm.ko /vendor/lib/modules/q6_dlkm.ko /vendor/lib/modules/apr_dlkm.ko /vendor/lib/modules/q6_notifier_dlkm.ko /vendor/lib/modules/q6_pdr_dlkm.ko
+/vendor/lib/modules/adsp_loader_dlkm.ko: /vendor/lib/modules/apr_dlkm.ko /vendor/lib/modules/q6_notifier_dlkm.ko /vendor/lib/modules/q6_pdr_dlkm.ko
+/vendor/lib/modules/wcd_spi_dlkm.ko:
+/vendor/lib/modules/wlan.ko:
+/vendor/lib/modules/wcd9xxx_dlkm.ko: /vendor/lib/modules/wcd_core_dlkm.ko /vendor/lib/modules/q6_dlkm.ko /vendor/lib/modules/apr_dlkm.ko /vendor/lib/modules/q6_notifier_dlkm.ko /vendor/lib/modules/q6_pdr_dlkm.ko
+/vendor/lib/modules/wcd_core_dlkm.ko:
+/vendor/lib/modules/wsa881x_dlkm.ko: /vendor/lib/modules/swr_dlkm.ko /vendor/lib/modules/wcd_core_dlkm.ko
